@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="Player1Start">Nahari: 0</string>
+    <string name="Player2Start">Michal: 0</string>
+    <string name="Player1">Nahari: </string>
+    <string name="Player2">Michal: </string>
+    <string name="Player1Wins">Nahari is the winner!</string>
+    <string name="Player2Wins">Michal is the winner!</string>
+    <string name="reset_button">RESET</string>
+</resources>
